@@ -16,24 +16,11 @@ This project is a simple **Command Line Calculator** built using Python. It allo
 
 * Python 3.x
 
-## How to Run
-
-
-python calculator.py
-```
-
 ## File
 
 ```
 calculator.py
 ```
 
-## Purpose
 
-This project is ideal for beginners learning:
 
-* Python functions
-* Conditional statements
-* Loops
-* Exception handling
-* CLI program structur
